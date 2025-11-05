@@ -10,4 +10,4 @@
 - What process did you follow for creating the dockerfile?
 - What docker commands did you use to run the image?
 
-
+![Flask app running](flask-app-screenshot.png)
